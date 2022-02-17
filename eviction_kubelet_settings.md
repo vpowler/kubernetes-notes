@@ -16,7 +16,7 @@ Open File
 Add/modify the contents
 -----------
 
-`
+```
 evictionSoft:
   nodefs.available: "10Gi"
   nodefs.inodesFree: "10%"
@@ -32,7 +32,7 @@ evictionHard:
   nodefs.inodesFree: "10%"
   imagefs.available: "10Gi"
   imagefs.inodesFree: "10%"
-`
+```
 
 Restart
 -------------
