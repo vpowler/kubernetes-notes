@@ -1,4 +1,4 @@
-GitHub Markup
+Eviction Kubelet Settings
 =============
 
 The following configuration is to override the default behivour when the DiskPressure condition prevents you from running a pod on the node:
